@@ -1,8 +1,11 @@
-p {
+body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin-bottom: 10px;
-    border: 2px solid #333;
-    padding: 10px;
-    color: #333; /* Ajout de la couleur du texte */
+}
+
+h1 {
+    color: #003d8d;
+}
+
+.gras {
+    font-weight: bold;
 }
