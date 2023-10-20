@@ -10,3 +10,5 @@ CREATE TABLE ordinateurs (
     version_de_windows VARCHAR(70),
     numéro_de_série VARCHAR(70),
 );
+
+USE TABLES ordinateurs;
