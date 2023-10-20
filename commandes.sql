@@ -1,6 +1,6 @@
 CREATE DATABASE IF NOT EXISTS commandes_20_10 CHARACTER SET = "utf8" COLLATE = "utf8_general_ci";
 
-USE commandes_20_10
+USE commandes_20_10;
 
 CREATE TABLE ordinateurs (
      INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
